@@ -1,0 +1,10 @@
+.left{
+    background-color: rgba(121, 50, 50, 0.589);
+    min-height: 700px;
+    background-image: url(small-fb-icon-0.jpg);
+}
+.right{
+    background-color: rgb(148, 40, 248);
+    background-image: url(wallpaperflare.com_wallpaper\ \(30\).jpg);
+    background-size: contain;
+}

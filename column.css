@@ -1,0 +1,12 @@
+
+
+.left{
+    background-color: rgb(14, 14, 247);
+    min-height: 700px;
+    
+}
+.right{
+    display: block;
+    background-image: url(wallpaperflare.com_wallpaper\ \(29\).jpg);
+    background-size:contain;
+}   
